@@ -5,5 +5,5 @@ def sum(a,b)
 
 def mul(a,b)
 {
-    echo "a and b multiplcation $(a*b)"
+    echo " a and b multiplcation $(a*b) "
 }
